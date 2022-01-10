@@ -14,3 +14,6 @@ In this case, need to reset the state of our route manager for the previously se
         routeManager.unselect(.signUp)
         routeManager.unselect(.restorePassword)
     }
+
+## Demo
+![](Resources/navigation_demo.gif)
